@@ -1,0 +1,14 @@
+{
+  "name": "gamling-js",
+  "version": "1.0.0",
+  "main": "project.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SahZikO",
+  "license": "ISC",
+  "description": "Slot machine for gambling",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
